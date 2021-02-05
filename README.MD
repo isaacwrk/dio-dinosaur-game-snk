@@ -4,6 +4,6 @@
 
 *When your internet go off what is the first thing that happen in your browser? the classic dinossaur game! 
 in this project I re-created this game in Attack on Titan theme.
-this is a basic project there's missing a lot o things like the score board and the re-start buttom.*
+this is a basic project there's missing a lot o things like the score board and the re-start buttom, but it's playable!*
 
 ![](examples/ex1.jpeg)
